@@ -1,4 +1,4 @@
-# Clase para conectarse a equipo(cmts-cisco) y realizar una accion, en este caso show cable modem, pasando parametros por argumentos(sobrecarga)
+# Clase para conectarse a equipo(cmts-cisco) y realizar una accion, en este caso 'show cable modem' y mostrar solo: ip-mac-addres y upstream de cada cablemodem, pasando parametros, ip,user,pass y pass-enable(sobrecarga)
 # PYTHON 3 , usando libreria telnetlib
 
 import sys
